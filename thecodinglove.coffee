@@ -1,8 +1,16 @@
 # Description
 #   Hubot replies with a GIF and the description of a random post from thecodinglove.com.
 #
+# Dependencies:
+#   None
+#
+# Configuration:
+#   None
+#
 # Commands:
-#   hubot thecodinglove - A random thecodinglove.com post
+#   hubot coding love - A random thecodinglove.com post.
+#
+# Notes:
 #
 # Author:
 #   elisiariocouto
