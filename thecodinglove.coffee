@@ -9,4 +9,4 @@
 
 module.exports = (robot) ->
     robot.respond /coding love/i, (msg) ->
-        msg.reply "I can't, I'm crafting the script..."
+        msg.send "I can't, I'm crafting the script..."
